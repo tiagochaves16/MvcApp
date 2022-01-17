@@ -1,0 +1,15 @@
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.deps.json
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.dll
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\bin\Debug\net5.0\ref\DevIO.Data.dll
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.pdb
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\bin\Debug\net5.0\DevIO.Business.dll
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\bin\Debug\net5.0\DevIO.Business.pdb
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.AssemblyInfo.cs
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.csproj.CopyComplete
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.dll
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\obj\Debug\net5.0\ref\DevIO.Data.dll
+C:\Users\dell\Downloads\App.Dev\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.pdb
